@@ -1,6 +1,7 @@
 # Ex-4-BOM-for-Circuit-board
 
-**Aim  **
+**Aim**
+
 To create and generate the Bill of Materials (BOM) for a printed circuit board (PCB) design using Proteus Design Suite, and to understand the importance of component documentation in PCB manufacturing and assembly.
 
 **Apparatus Required**
@@ -110,15 +111,8 @@ Save the generated report for PCB manufacturing and documentation.
 
 **Output**
 
-Generated Bill of Materials
-Reference Designator	Component	Value	Package	Quantity
-R1, R2	Resistor	1 kΩ	AXIAL-0.4	2
-C1	Capacitor	1000 µF	RADIAL	1
-C2	Capacitor	0.1 µF	Ceramic	1
-D1–D4	Diode	1N4007	DO-41	4
-IC1	Voltage Regulator	7805	TO-220	1
-LED1	LED	Red	5 mm	1
-J1	Connector	2-Pin	Terminal Block	1
+<img width="1443" height="800" alt="image" src="https://github.com/user-attachments/assets/f0ca68e8-5464-4e2b-b76a-d20d38e8b84d" />
+
 
 **Observation**
 
