@@ -111,7 +111,7 @@ Save the generated report for PCB manufacturing and documentation.
 
 **Output**
 
-<img width="1443" height="800" alt="image" src="https://github.com/user-attachments/assets/f0ca68e8-5464-4e2b-b76a-d20d38e8b84d" />
+<img width="947" height="527" alt="image" src="https://github.com/user-attachments/assets/47c49d63-2452-4d2e-a4e8-82c48a783e30" />
 
 
 **Observation**
